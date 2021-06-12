@@ -1,1 +1,15 @@
-// TODO
+.container {
+    display: flex;
+    justify-content: center;
+    // align-items: center;
+    height: 6rem;
+
+    div {
+        display: flex;
+        align-items: center;
+        width: 700px;
+        height: 100%;
+    }
+
+
+}
